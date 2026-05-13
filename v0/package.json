@@ -1,7 +1,7 @@
 {
-  "name": "microservice-v0",
-  "version": "0.1.0",
-  "description": "Basic microservice app v0",
+  "name": "microservice-v1",
+  "version": "1.0.0",
+  "description": "Basic microservice app v1",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc",

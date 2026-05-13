@@ -1,5 +1,5 @@
 export const config = {
-  APP_NAME: 'MicroService API v0',
+  APP_NAME: 'MicroService API v1',
   PORT: 3000,
   DATABASE_URL: 'mongodb://localhost:27017/microservice',
   API_TIMEOUT: 5000,

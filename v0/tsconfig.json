@@ -8,7 +8,7 @@
     "strict": true,
     "esModuleInterop": true,
     "skipLibCheck": true,
-    "forceConsoleLog": true
+    
   },
   "include": ["*.ts", "services/*.ts"],
   "exclude": ["node_modules"]
